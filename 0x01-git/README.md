@@ -1,1 +1,1 @@
-Yay!!! I am now an `ALX student`
+I am now an `ALX student`
